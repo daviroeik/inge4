@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#wrap{
+    height: 240px;
+    width: 400px;
+    background-color: #BDBDBD;
+    margin: auto;
+    padding-top: 5px;
+    text-align: center;
+}
